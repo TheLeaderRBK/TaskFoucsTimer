@@ -1,0 +1,7 @@
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\Export\TaskFocusTimer.pdb
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\Export\D3DCompiler_47_cor3.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\Export\PenImc_cor3.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\Export\PresentationNative_cor3.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\Export\vcruntime140_cor3.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\Export\wpfgfx_cor3.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\Export\TaskFocusTimer.exe

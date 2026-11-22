@@ -1,0 +1,5 @@
+c:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Release\net8.0-windows\publish\TaskFocusTimer.exe
+c:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Release\net8.0-windows\publish\TaskFocusTimer.dll
+c:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Release\net8.0-windows\publish\TaskFocusTimer.deps.json
+c:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Release\net8.0-windows\publish\TaskFocusTimer.runtimeconfig.json
+c:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Release\net8.0-windows\publish\TaskFocusTimer.pdb

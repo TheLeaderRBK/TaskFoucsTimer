@@ -1,0 +1,14 @@
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Debug\net8.0-windows\TaskFocusTimer.exe
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Debug\net8.0-windows\TaskFocusTimer.deps.json
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Debug\net8.0-windows\TaskFocusTimer.runtimeconfig.json
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Debug\net8.0-windows\TaskFocusTimer.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\bin\Debug\net8.0-windows\TaskFocusTimer.pdb
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\TaskFocusTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\TaskFocusTimer.AssemblyInfoInputs.cache
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\TaskFocusTimer.AssemblyInfo.cs
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\TaskFocusTimer.csproj.CoreCompileInputs.cache
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\TaskFocusTimer.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\refint\TaskFocusTimer.dll
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\TaskFocusTimer.pdb
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\TaskFocusTimer.genruntimeconfig.cache
+C:\Users\theko\Downloads\TaskFocusTimer\TaskFocusTimer\obj\Debug\net8.0-windows\ref\TaskFocusTimer.dll
